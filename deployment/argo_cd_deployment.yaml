@@ -1,7 +1,7 @@
 apiVersion: argoproj.io/v1alpha1
 kind: Application
 metadata:
-  name: my-city-weather-app
+  name: my-city-weather-app-v2
   namespace: argocd
 spec:
   destination:
